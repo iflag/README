@@ -48,11 +48,11 @@
 
 - frontend
   - web
-    - React-DOM as React based in JS
+    - React-DOM as React based in TS
   - mobile
     - React Native
   - desktop
-    - Electron as React based in JS
+    - Electron as React based in TS
 
 - infra
   - docker, docker-compose
