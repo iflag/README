@@ -46,7 +46,7 @@
   - Django Rest Framework
   
 - database
-  - prod : Oracle ATP Database
+  - prod : mysql
   - dev : sqlite
 
 - frontend
@@ -60,5 +60,5 @@
 - infra
   - docker, docker-compose
   - AWS S3
-  - NCP VPS (free tear)
+  - Oracle Cloud VPS
   - Cloudflare
